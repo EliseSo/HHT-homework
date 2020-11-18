@@ -1,3 +1,6 @@
-# HHT-homework
-HHT homeworks
+# machine learning notes
+
+some 'naive-simple' notes
+
+
 
